@@ -29,6 +29,8 @@ If you want to clone this project:
 
 [live server]()
 
+## Live video :
+[click here](https://www.loom.com/share/9df26ca36eb24542b2f8c6ce8d2da672)
 ## Available Scripts
 
 - HTML5.
@@ -88,8 +90,7 @@ If you want to clone this project:
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
--I thank Microverse for its documentation.
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
