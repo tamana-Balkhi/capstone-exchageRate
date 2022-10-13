@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# React & Redux  currency exchange rate 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+- HTML5.
+- CSS.
+- React.
+- Visual Studio Code.
+- Git.
+- GitHub.
+- Webpack.
+- ECMA6.
+- React-Redux.
+- Snapshot for testing.
+- The header have 2 pages: missions and rockets.
 
-### `npm start`
+## Getting Started with Create React App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you want to clone this project:
+- Go to GitHub repository.
+- Click on the green button that say 'Code'.
+- Copy the SSH link.
+- On your local machine, type the command git clone and paste the SSH link.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Live demo video (Netlify deployment) you click here:
 
-### `npm test`
+[live server](https://deploy-preview-1--starlit-wisp-c9ce8a.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Live video :
+[click here](https://www.loom.com/share/9df26ca36eb24542b2f8c6ce8d2da672)
+## Available Scripts
 
-### `npm run build`
+- HTML5.
+- CSS.
+- React-Redux.
+- Visual Studio Code.
+- Git
+- GitHub
+- Webpack
+- ECMA6
+- Components such as missions and rockets reducers, actions and styling files.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started with Create React App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If you want to clone this project:
+- Go to GitHub repository
+- Click on the green button that say 'Code'
+- Copy the SSH link
+- On your local machine, type the command git clone and paste the SSH link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
+- Code editor
+- Knowledge in HTML
+- Knowledge in Javascript (ES6), API's, Webpack, and CSS.
+- Handle on local repository Git
 
-### `npm run eject`
+### Setup
+- Clone the repository
+- Change directory into the project folder
+- Install dependencies
+- Open project with text editor to view changes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Install
+- Feel free to clone the repository at this URL: https://github.com/tamana-Balkhi/capstone-M3.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Usage
+- Make changes to javascript and html files then submit pull requests
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Run tests
+- You can use a live server to run the tests
 
 ### Deployment
+- Run the project in your local browser to view the index.html
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Authors
+👤 **Tamana Balkhi**
 
-### `npm run build` fails to minify
+- GitHub: [@tamana-Balkhi](https://github.com/tamana-Balkhi)
+- Twitter:[@TAMANA1377](https://twitter.com/TAMANA1377)
+- LinkedIn:[Tamana balkhi](https://www.linkedin.com/in/tamana-balkhi-1212171b6/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Authors notice
+- Thank you @tamana for helping in this project we were working together according the instructions.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed
