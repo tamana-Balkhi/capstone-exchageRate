@@ -27,7 +27,7 @@ If you want to clone this project:
 
 ## Live demo video (Netlify deployment) you click here:
 
-[live server](https://tamana-balkhi.github.io/capstone-exchageRate/)
+[live server](https://deploy-preview-1--starlit-wisp-c9ce8a.netlify.app/)
 
 ## Live video :
 [click here](https://www.loom.com/share/9df26ca36eb24542b2f8c6ce8d2da672)
